@@ -16,25 +16,25 @@
 - Use cd command to move assignment project folder
 - Run command this command to build docker image :
 
-**docker build -t my-postgres-db ./
-**
+docker build -t my-postgres-db ./
+
 - Then, execute this command to be bootstrap postgresql server and database run on 5432 port
 
-**docker run -d --name my-postgresdb-container -p 5432:5432 my-postgres-db
-**
+docker run -d --name my-postgresdb-container -p 5432:5432 my-postgres-db
+
 3. Build and run project
 - Use cd command to move assignment project folder
 - To run test one, use this command: 
 
-**java src/main/java/com/assignment/StairCase.java
-**
+java src/main/java/com/assignment/StairCase.java
+
 - To run test two:
   + Execute maven command to build project:
   
-**  mvn clean install
-**  
+mvn clean install
+  
   + Execute this command to run application on 8083 port
   
-**  mvn spring-boot:run
-**  
+mvn spring-boot:run
+  
   + To test API, visit url http://localhost:8083/assignment/swagger-ui.html
