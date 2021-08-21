@@ -1,0 +1,13 @@
+/Users/apple/propzy/assignment/src/main/java/com/assignment/dto/UserForGetDto.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/configuration/SwaggerConfiguration.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/StairCase.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/dao/entity/UserEntity.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/dao/repository/UserRepository.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/MainApplication.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/controller/UserController.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/exception/handler/ServiceExceptionHandler.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/service/impl/UserServiceImpl.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/service/UserService.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/dto/UserDto.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/dto/ErrorResponse.java
+/Users/apple/propzy/assignment/src/main/java/com/assignment/mapper/UserMapper.java

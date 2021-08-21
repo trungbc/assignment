@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: assignment
+  profiles:
+    active: @spring.profiles.active@
+server:
+  servlet:
+    context-path: /assignment
+  port: 8083
+      
