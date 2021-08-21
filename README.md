@@ -31,5 +31,7 @@ docker run -d --name my-postgresdb-container -p 5432:5432 my-postgres-db
   mvn clean install
   
   + Execute this command to run application on 8083 port
+  
   mvn spring-boot:run
+  
   + To test API, visit url http://localhost:8083/assignment/swagger-ui.html
