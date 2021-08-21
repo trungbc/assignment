@@ -12,7 +12,7 @@
 2. Pre-install
 
 **Note: If you don't have docker, you need to install postgresql server on your machine 
-and create assignment database and table like what i wrote assignment_schema.sql file
+and create assignment database and table like what i wrote in /databse/assignment_schema.sql file
 and don't need to following steps. But on my advise, you should install docker to make everything easier
 - Install docker in your machine
 - Use cd command to move assignment project folder
