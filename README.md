@@ -24,7 +24,10 @@ docker run -d --name my-postgresdb-container -p 5432:5432 my-postgres-db
 
 3. Build and run project
 - Use cd command to move assignment project folder
-- To run test one, use this command: java src/main/java/com/assignment/StairCase.java
+- To run test one, use this command: 
+
+java src/main/java/com/assignment/StairCase.java
+
 - To run test two:
   + Execute maven command to build project:
   
