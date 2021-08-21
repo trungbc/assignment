@@ -10,6 +10,7 @@
   + StairCase.java: run to display test one
   + MainApplication.java: run to display test two
 2. Pre-install
+
 **Note: If you don't have docker, you need to install postgresql server on your machine 
 and create assignment database and table like what i wrote assignment_schema.sql file
 and don't need to following steps. But on my advise, you should install docker to make everything easier
