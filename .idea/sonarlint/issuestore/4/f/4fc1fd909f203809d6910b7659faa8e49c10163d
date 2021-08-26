@@ -1,8 +1,0 @@
-
-i	java:S116"URename this field "RequestURI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï×½[
-p	java:S116"VRename this field "QueryString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¹Ìùÿÿÿÿ
-k	java:S116"QRename this field "Method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¤”Ÿşÿÿÿÿ
-j	java:S116"URename this field "RemoteAddr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÙ—ª
-i	java:S116"URename this field "RequestURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¢¬P
-p	java:S116"VRename this field "ClassMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÄ¶äşÿÿÿÿ
-k	java:S116"VRename this field "RequestBody" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è°ÊÉ
